@@ -1,0 +1,30 @@
+.home_section{
+    display: flex;
+    padding: 120px;
+    
+  
+}
+.home_section2{
+    display: flex;
+    padding: 120px;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    
+}
+.home_section3{
+    display: flex;
+    padding: 120px;
+    background-color: black;
+    color: white;
+    font-size: medium;
+    
+}
+.pdharo>img{
+    text-align: left;
+    display: block;
+    justify-content: left;
+    align-items: left;
+    margin: auto;
+    
+
+}
